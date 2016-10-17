@@ -1,0 +1,6 @@
+{
+  "default":  {
+    "project_name": "12trip-test",
+    "generate_random_id": true
+  }
+}

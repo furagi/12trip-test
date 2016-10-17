@@ -1,0 +1,12 @@
+{
+  "name": "12trip-test",
+  "version": "0.1",
+  "main": "app.js",
+  "private": true,
+  "dependencies": {
+    "async": "^2.0.1",
+    "minimist": "^1.2.0",
+    "redis": "^2.6.2",
+    "underscore": "^1.8.3"
+  }
+}
